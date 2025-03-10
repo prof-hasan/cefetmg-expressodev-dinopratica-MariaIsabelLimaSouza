@@ -1,0 +1,51 @@
+
+	body{
+	 background-color:green;
+	 font-family:Verdana;
+	}
+	div{
+	 border:1px solid green;
+	 background-color:white;
+	 padding:10px;
+	 line-height:1.5;
+	 border-radius:15px;
+	}
+	h1{
+	 color:white;
+	 text-align:center;
+	}
+        h2{
+         color:green;
+         font-family:Verdana;
+        }
+	details{
+	 border:1px solid green;
+	 background-color:white;
+	 color:green;
+	 padding:3px 5px;
+         margin-top:3px;
+         border-radius:5px;
+         font-size:11pt;
+	}
+	summary{
+	 cursor:pointer;
+	 padding:5px 2p;
+	}
+	details{
+	 background-color:lightgreen;
+	 color:black;
+	 padding-left:10px;
+	 text-align:justify;
+	 line-height:1.5;
+	 font-size:10pt;
+	}
+	img{
+	 float:left;
+	 height:100px;
+	 border-radius:50%;
+	 margin-right:10px;
+	 margin-bottom:10px;
+	}
+	strong{
+	 color:forestgreen;
+	}
